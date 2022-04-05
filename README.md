@@ -1,2 +1,2 @@
 #Demo
-some concepts of semantic html page gonna come soon
+some concepts of semantic html page gonna come soon!
